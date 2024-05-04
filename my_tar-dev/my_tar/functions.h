@@ -1,0 +1,11 @@
+char* my_strcp (char *s1, char *s2, int j);
+int my_strcmp (char *a, char *b);
+int my_strlen(char* param_1);
+bool nsf (char *filename);
+char *reverse_string(char *s);
+int my_pow(int p1, int p2);
+int deall_list (lln **head);
+lln* rll(lln* head_ref);
+int cant (char *s1);
+int tc (ps p);
+int nma (int i, int j);
